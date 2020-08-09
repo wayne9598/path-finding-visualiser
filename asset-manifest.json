@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/path-finding-visualiser/static/css/main.03db443a.chunk.css",
+    "main.js": "/path-finding-visualiser/static/js/main.be6f4b0d.chunk.js",
+    "main.js.map": "/path-finding-visualiser/static/js/main.be6f4b0d.chunk.js.map",
+    "runtime-main.js": "/path-finding-visualiser/static/js/runtime-main.63482c3b.js",
+    "runtime-main.js.map": "/path-finding-visualiser/static/js/runtime-main.63482c3b.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/path-finding-visualiser/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.ef10fc69.chunk.js": "/path-finding-visualiser/static/js/2.ef10fc69.chunk.js",
+    "static/js/2.ef10fc69.chunk.js.map": "/path-finding-visualiser/static/js/2.ef10fc69.chunk.js.map",
+    "index.html": "/path-finding-visualiser/index.html",
+    "precache-manifest.fa3d84b42d8a6c101c00fc76864cefb6.js": "/path-finding-visualiser/precache-manifest.fa3d84b42d8a6c101c00fc76864cefb6.js",
+    "service-worker.js": "/path-finding-visualiser/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/path-finding-visualiser/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.03db443a.chunk.css.map": "/path-finding-visualiser/static/css/main.03db443a.chunk.css.map",
+    "static/js/2.ef10fc69.chunk.js.LICENSE.txt": "/path-finding-visualiser/static/js/2.ef10fc69.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/path-finding-visualiser/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63482c3b.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.ef10fc69.chunk.js",
+    "static/css/main.03db443a.chunk.css",
+    "static/js/main.be6f4b0d.chunk.js"
+  ]
+}
